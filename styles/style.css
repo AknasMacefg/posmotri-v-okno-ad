@@ -244,6 +244,8 @@ fieldset {
 
 .content__list-item {
   margin-bottom: 30px;
+  padding-left: 3px;
+  padding-right: 3px;
 }
 
 .content__video-card {
@@ -316,7 +318,3 @@ fieldset {
   text-decoration: underline;
 }
 
-.content__list-item {
-  padding-left: 3px;
-  padding-right: 3px;
-}
